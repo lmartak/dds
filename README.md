@@ -1,2 +1,2 @@
 # dds
-Codebase for Differentiable Dictionary Search
+Codebase for Differentiable Dictionary Search (available soon)
